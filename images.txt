@@ -12,3 +12,4 @@ php:8.3.8-fpm-alpine
 php:8.1.27-fpm-alpine
 php:7.4.30-fpm-alpine
 percona/percona-xtrabackup:8.0.34
+php:8.2.20-fpm-alpine
