@@ -8,6 +8,7 @@
 nginx:1.26.1-alpine
 mysql:8.4.0
 redis:7.2.5-alpine
+php:5.6.40-fpm-alpine
 php:8.3.8-fpm-alpine
 php:8.1.27-fpm-alpine
 php:7.4.30-fpm-alpine
